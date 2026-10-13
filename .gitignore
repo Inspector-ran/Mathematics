@@ -1,0 +1,9 @@
+# Personal source material and temporary files
+/private-materials/
+/work/
+/exports/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+~$*
